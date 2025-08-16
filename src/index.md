@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /guide
+      link: /guide/
     - theme: alt
       text: 加入聊天
       link: https://qm.qq.com/q/hK6gafntCw
