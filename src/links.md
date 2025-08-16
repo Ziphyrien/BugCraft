@@ -1,0 +1,28 @@
+# 友情链接
+
+这是友情链接页面，**排序不分先后**。如果您想要加入这里，可以[发起一个 Issue](https://github.com/cygbs/BugCraft/issues/new)。
+
+## MC服务器
+
+### [Khalil Land 知己屿](https://wiki.zipawa.top/)
+纯净、自由、温馨的 Minecraft Java 版服务器
+
+### [云启之域 RCN](https://rcn.zyghit.cn/)
+自 2019 年至今，薪火相传，历史悠久。1.8.8-1.21.1 公益离线群组服务器。
+
+## 网站
+
+### [whycf的小站](https://whycf.top/)
+星光不问赶路人，时光不负有心人~
+
+### [纳西妲的个人网站](https://nahida.im/)
+看来，又有新朋友了呢
+
+### [薄荷的小屋](https://blog.hoshiroko.com/)
+这是一个没人光顾的小站，隐藏在互联网边缘
+
+### [凤梨网](https://www.flweb.cn/)
+免费自由的技术生活与资源的分享交流平台，提供全免费的分享交流体验
+
+### [MCJPG](https://mcjpg.org/)
+一个致力于Minecraft技术交流和服务器宣传的组织
