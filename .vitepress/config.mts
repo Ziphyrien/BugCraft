@@ -16,7 +16,8 @@ export default defineConfigWithTheme<ThemeConfig>({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '友链', link: '/links' }
+      { text: '友链', link: '/links' },
+      { text: '捐赠', link: 'https://afdian.com/a/bugcraft' }
     ],
 
     logo: {
