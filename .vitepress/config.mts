@@ -47,6 +47,38 @@ export default defineConfigWithTheme<ThemeConfig>({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/cygbs/BugCraft' }
-    ]
+    ],
+
+    editLink: {
+      pattern: 'https://github.com/cygbs/BugCraft/edit/main/:path',
+      text: '在 GitHub 上编辑此页面'
+    },
+
+        docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
+
+    outline: {
+      label: '页面导航'
+    },
+
+    lastUpdated: {
+      text: '最后更新于'
+    },
+
+    notFound: {
+      title: '好像没有这页呢',
+      quote:
+        '“你要去的地方，可能并不存在。”',
+      linkLabel: '前往首页',
+      linkText: '回到首页'
+    },
+
+    returnToTopLabel: '回到顶部',
+    sidebarMenuLabel: '菜单',
+    darkModeSwitchLabel: '主题',
+    lightModeSwitchTitle: '切换到浅色模式',
+    darkModeSwitchTitle: '切换到深色模式'
   }
 })
