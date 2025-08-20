@@ -50,11 +50,11 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     editLink: {
-      pattern: 'https://github.com/cygbs/BugCraft/edit/main/:path',
+      pattern: 'https://github.com/cygbs/BugCraft/edit/main/src/:path',
       text: '在 GitHub 上编辑此页面'
     },
 
-        docFooter: {
+    docFooter: {
       prev: '上一页',
       next: '下一页'
     },
