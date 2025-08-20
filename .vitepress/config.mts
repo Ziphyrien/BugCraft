@@ -39,6 +39,7 @@ export default defineConfigWithTheme<ThemeConfig>({
         items: [
           { text: '开始', link: '/guide/' },
           { text: '规则', link: '/guide/rules' },
+          { text: '常见问题', link: '/guide/q&a' },
           { text: '关于', link: '/guide/about' }
         ]
       }
