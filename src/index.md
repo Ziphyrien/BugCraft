@@ -16,7 +16,7 @@ hero:
       link: /guide/
     - theme: alt
       text: 加入聊天
-      link: https://qm.qq.com/q/hK6gafntCw
+      link: /chat
 
 features:
   - title: 立即加入
