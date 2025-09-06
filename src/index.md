@@ -17,6 +17,9 @@ hero:
     - theme: alt
       text: 加入聊天
       link: /chat
+    - theme: alt
+      text: 直接打开怀旧版
+      link: http://b2t.3dky.cn
 
 features:
   - title: 立即加入
