@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "BugCraft"
   text: "There are many bugs to play."
-  tagline: 一个简单的 Minecraft 服务器。
+  tagline: 一个简单的 Minecraft 服务器……正在准备1.21.9。
   icon: 🐛
   image:
     src: ./upload/favicon.svg
@@ -18,7 +18,10 @@ hero:
       text: 加入聊天
       link: /chat
     - theme: alt
-      text: 直接打开怀旧版
+      text: 博客
+      link: https://bugcraft.org
+    - theme: alt
+      text: 怀旧版
       link: http://b2t.3dky.cn
 
 features:
@@ -35,3 +38,4 @@ features:
   - title: Leaf
     details: 服务器核心。
 ---
+
